@@ -8,7 +8,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class LogAspect {
 
-    @Pointcut("")
+    @Pointcut("target(com.example.belajar_spring_aop)")
     public void helloServiceMethod() {
 
     }
