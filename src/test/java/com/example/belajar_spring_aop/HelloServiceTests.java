@@ -1,5 +1,6 @@
 package com.example.belajar_spring_aop;
 
+import com.example.belajar_spring_aop.service.HelloService;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;

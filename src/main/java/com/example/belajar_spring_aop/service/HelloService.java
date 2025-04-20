@@ -1,7 +1,8 @@
-package com.example.belajar_spring_aop;
+package com.example.belajar_spring_aop.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
 @Slf4j
 @Component
